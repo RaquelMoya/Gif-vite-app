@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 
-helpers/getGifs.js
+/src/helpers
